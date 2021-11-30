@@ -7,4 +7,4 @@ Web về bán đồ dụng cụ thể thao
 + Tầng View : định dạng hiển thị dữ liệu lên người dùng, Controller sẽ truyền các biến dữ liệu vào các view để chúng có thể thao tác dữ liệu này để hiển thị lên.
 Ở đây , bài web controller sẽ là thư mục class  thao tác chính với CSDL , model và view chung.
 +DEMO web
-
+![Screenshot](screenshot(97).png)
